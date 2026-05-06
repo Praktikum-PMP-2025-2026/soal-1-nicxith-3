@@ -1,3 +1,11 @@
+/* EL2008 Praktikum Pemecahan Masalah dengan Pemrograman
+* Modul : 4
+* Pembuat : Saragih, Jan Roman Arthuro
+* NIM : 13224012
+* Deskripsi : Program untuk mencari durasi dan queue berbasis linked list
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
